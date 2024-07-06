@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   version="1.2"
+   x="0px"
+   y="0px"
+   width="27.719011"
+   height="15.891998"
+   viewBox="0 0 27.71901 15.891998"
+   xml:space="preserve"
+   id="svg5614"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5618" />
+
+<g
+   id="breadboard"
+   transform="translate(-224.46642,-399.08024)">
+	<path
+   id="path64"
+   fill="#303030"
+   d="m 224.46642,399.08024 c 0,0 0.0327,15.88096 0,15.892 h 27.719 v -15.891 h -27.719 z"
+   style="fill:#000080" />
+	
+	
+<rect
+   style="fill:#000000;stroke:#000000;stroke-width:0.377953;stroke-linejoin:bevel;stroke-opacity:1;paint-order:stroke fill markers"
+   id="rect5992"
+   width="3.4244912"
+   height="3.6095989"
+   x="226.61134"
+   y="408.84369" /><rect
+   id="rect28-6-1-6-4"
+   x="248.10103"
+   y="410.80389"
+   fill="#8c8c8c"
+   width="2.1600001"
+   height="1.8945547"
+   style="stroke-width:0.627597" /><rect
+   id="rect28-6-1-6-4-5"
+   x="248.2534"
+   y="401.06012"
+   fill="#8c8c8c"
+   width="2.1600001"
+   height="1.8945547"
+   style="stroke-width:0.627597" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;fill:#ffffff;stroke:#000000;stroke-width:0.0962558;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+   x="242.39108"
+   y="402.8652"
+   id="text9337"
+   transform="scale(1.0008708,0.99912996)"><tspan
+     x="242.39108"
+     y="402.8652"
+     id="tspan9339"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.0962558">+12V</tspan></text><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;fill:#ffffff;stroke:#000000;stroke-width:0.0962558;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+   x="242.77641"
+   y="412.50919"
+   id="text9337-1"
+   transform="scale(1.0008708,0.99912996)"><tspan
+     x="242.77641"
+     y="412.50919"
+     id="tspan9339-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.0962558">-12V</tspan></text><rect
+   id="rect28-6-1-6-4-1"
+   x="248.16647"
+   y="406.12329"
+   fill="#8c8c8c"
+   width="2.1600001"
+   height="1.8945547"
+   style="stroke-width:0.627597" /><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:rtl;fill:#ffffff;stroke:#000000;stroke-width:0.0962558;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
+   x="242.8418"
+   y="407.82449"
+   id="text9337-1-8"
+   transform="scale(1.0008708,0.99912996)"><tspan
+     x="242.8418"
+     y="407.82449"
+     id="tspan9339-3-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.69764px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#ffffff;stroke-width:0.0962558">GND</tspan></text><text
+   xml:space="preserve"
+   style="font-size:1.91012px;font-family:OCRA;-inkscape-font-specification:'OCRA, Normal';fill:#ffffff;stroke:#000000;stroke-width:0.460482;stroke-linejoin:bevel;stroke-opacity:0;paint-order:stroke fill markers"
+   x="222.67137"
+   y="408.05389"
+   id="text484"
+   transform="scale(1.0145877,0.98562204)"><tspan
+     id="tspan482"
+     x="222.67137"
+     y="408.05389"
+     style="stroke-width:0.460482">Symetric </tspan><tspan
+     x="222.67137"
+     y="410.44156"
+     id="tspan486"
+     style="stroke-width:0.460482">Power </tspan><tspan
+     x="222.67137"
+     y="412.82919"
+     id="tspan488"
+     style="stroke-width:0.460482">Supply</tspan></text></g>
+</svg>

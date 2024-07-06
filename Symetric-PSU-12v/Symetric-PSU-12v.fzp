@@ -29,22 +29,22 @@ p, li { white-space: pre-wrap; }
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Symetric PSU 12v&lt;/p>&lt;/body>&lt;/html></description>
  <views>
   <iconView>
-   <layers image="icon/Symetric-PSU-12v_9868ba1abf78725984b041def6173654_19_icon.svg">
+   <layers image="icon/Symetric-PSU-12v_fd4fa97f5655570088373ff907b896c9_2_icon.svg">
     <layer layerId="icon"/>
    </layers>
   </iconView>
   <breadboardView>
-   <layers image="breadboard/Symetric-PSU-12v_9868ba1abf78725984b041def6173654_19_breadboard.svg">
+   <layers image="breadboard/Symetric-PSU-12v_fd4fa97f5655570088373ff907b896c9_2_breadboard.svg">
     <layer layerId="breadboard"/>
    </layers>
   </breadboardView>
   <schematicView>
-   <layers image="schematic/Symetric-PSU-12v_9868ba1abf78725984b041def6173654_19_schematic.svg">
+   <layers image="schematic/Symetric-PSU-12v_fd4fa97f5655570088373ff907b896c9_2_schematic.svg">
     <layer layerId="schematic"/>
    </layers>
   </schematicView>
   <pcbView>
-   <layers image="pcb/Symetric-PSU-12v_9868ba1abf78725984b041def6173654_19_pcb.svg">
+   <layers image="pcb/Symetric-PSU-12v_fd4fa97f5655570088373ff907b896c9_2_pcb.svg">
     <layer layerId="silkscreen"/>
     <layer layerId="copper0"/>
     <layer layerId="copper1"/>

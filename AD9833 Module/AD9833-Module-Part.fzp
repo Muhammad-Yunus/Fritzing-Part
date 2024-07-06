@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="AD9833-Module-_6769f439ae35cc4e9ce57d81cbfe604b_1" referenceFile="generic_ic_dip_8_300mil.fzp">
+ <version>4</version>
+ <author>Fritzing Part-o-matic</author>
+ <title>AD9833 Module</title>
+ <label>AD9833</label>
+ <date>Sat Jul 6 2024</date>
+ <tags>
+  <tag>DIP</tag>
+  <tag>fritzing core</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">AD9833</property>
+  <property name="pins">8</property>
+  <property name="package">Module</property>
+  <property name="editable pin labels">false</property>
+  <property name="pin spacing">300mil</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+  <property name="chip label">AD9833</property>
+  <property name="hole size"></property>
+ </properties>
+ <taxonomy>part.dip.8.pins</taxonomy>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">AD9833 DDS Signal Generator Module&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/AD9833-Module-_6769f439ae35cc4e9ce57d81cbfe604b_32_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/AD9833-Module-_6769f439ae35cc4e9ce57d81cbfe604b_32_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/AD9833-Module-_6769f439ae35cc4e9ce57d81cbfe604b_32_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/AD9833-Module-_6769f439ae35cc4e9ce57d81cbfe604b_32_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" name="VCC" type="male">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector0terminal" svgId="connector0pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper0"/>
+     <p svgId="connector0pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="DGND" type="male">
+   <description>DGND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector1terminal" svgId="connector1pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper0"/>
+     <p svgId="connector1pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="SDATA" type="male">
+   <description>SDATA</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector2terminal" svgId="connector2pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper0"/>
+     <p svgId="connector2pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" name="SCLK" type="male">
+   <description>SCLK</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector3terminal" svgId="connector3pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper0"/>
+     <p svgId="connector3pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector4" name="FSYNC" type="male">
+   <description>FSYNC</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector4terminal" svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector4terminal" svgId="connector4pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper0"/>
+     <p svgId="connector4pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector5" name="AGND" type="male">
+   <description>AGND</description>
+   <views>
+    <breadboardView>
+     <p terminalId="connector5terminal" svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector5terminal" svgId="connector5pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper0"/>
+     <p svgId="connector5pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector6" name="OUT" type="male">
+   <description>OUT</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p terminalId="connector6terminal" svgId="connector6pin" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper0"/>
+     <p svgId="connector6pin" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
